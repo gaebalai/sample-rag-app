@@ -82,7 +82,7 @@ flowchart LR
 * **프론트엔드**
 
   * React + TypeScript + Vite
-  * Axios で API 호출
+  * Axios의 API 호출
 * **백엔드**
 
   * Node.js + TypeScript + Express.js
